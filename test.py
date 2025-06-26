@@ -1,5 +1,6 @@
 def func(x, y):
+    d = 3
     a = 2
-    b = 3
-    reurn a * x + b
-  
+    
+    c = 12
+    return a * x + b * y + c
