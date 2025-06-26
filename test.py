@@ -1,5 +1,4 @@
 def func(x, y):
-    a = 2
-    b = 3
-    reurn a * x + b
-  
+    a = 5
+    b = 10
+    return a * x + b * y
